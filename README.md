@@ -1,2 +1,2 @@
 # dog4clever_site
-site or dog4clever project
+site for dog4clever project
